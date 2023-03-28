@@ -12,7 +12,7 @@ Como solucion propongo el siguiente [diagrama de flujo].
 ![Diagrama](./Diagrama-Problema-barbero.png "Diagrama del problema del barbero")
 
 ## Video de explicacion
-[![Barbero Dormilon](https://www.atestrategiasysoluciones.com/wp-content/uploads/2020/08/El-v%C3%ADdeo-es-el-rey.jpg)](enlace_klk "Video de explicacion Joan")
+[![Barbero Dormilon](./Video.PNG)]( https://drive.google.com/file/d/1omzqbP0UCg8uUdUvM-vCp85iS0hMjq4a/view?usp=sharing "Video de explicacion Joan")
 
 ## Lenguajes del Repositorio
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
